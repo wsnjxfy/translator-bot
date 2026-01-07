@@ -1,0 +1,20 @@
+{
+  "jeong jihoon": "郑志勋",
+  "lee sanghyeok": "李相赫",
+  "choi wooje": "崔祐齐",
+  "moon hyeonjoon": "文炫竣",
+  "lee minhyeong": "李珉炯",
+  "ryu minseok": "柳岷析",
+  "kim giin": "金基仁",
+  "son siwoo": "孙施祐",
+  "han wangho": "韩旺乎",
+  "kim hyukkyu": "金赫奎",
+  "heo su": "许秀",
+  "kim geonbu": "金建敷",
+  "kim suhwan": "金修奂",
+  "hong changhyeon": "洪畅贤",
+  "sin geumjae": "辛金宰",
+  "yoon sungwon": "尹成原",
+  "hwang seonghoon": "黄星勳",
+  "choi yonghyeok": "崔容赫"
+}

@@ -1,0 +1,15 @@
+{
+  "file": "char1.txt",
+  "extractedAt": "2026-01-07T08:47:57.269Z",
+  "count": 2,
+  "names": [
+    {
+      "raw": "Hyunjoon",
+      "normalized": "hyunjoon"
+    },
+    {
+      "raw": "Wooje",
+      "normalized": "wooje"
+    }
+  ]
+}
